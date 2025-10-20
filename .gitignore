@@ -1,0 +1,35 @@
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Environment and dependency files
+.env
+*.env
+
+# VS Code settings
+.vscode/
+.idea/
+
+
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+
+# MacOS and Windows system files
+.DS_Store
+Thumbs.db
+
+# requirements backup or old versions
+requirements-old.txt
