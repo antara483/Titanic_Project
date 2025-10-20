@@ -33,3 +33,5 @@ Thumbs.db
 
 # requirements backup or old versions
 requirements-old.txt
+
+*.csv
