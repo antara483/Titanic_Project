@@ -2,6 +2,7 @@
 
 A data preprocessing project on the Titanic dataset, preparing the data for machine learning models to predict passenger survival. This project focuses on cleaning, encoding, scaling, and handling outliers to make the dataset **ML-ready**.
 
+### Tools: Python, Pandas, NumPy, Matplotlib/Seaborn, Sklearn
 ---
 
 ## 📋 Project Overview
