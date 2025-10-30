@@ -2,6 +2,16 @@
 
 A data preprocessing project on the Titanic dataset, preparing the data for machine learning models to predict passenger survival. This project focuses on cleaning, encoding, scaling, and handling outliers to make the dataset **ML-ready**.
 
+## 🖼️ Model Output
+
+Here’s how the Boxplots Before Outlier Removal looks:
+
+![Confusion Matrix - Before Outlier Removal](images/Before%20Outlier%20Removal.png)
+
+And here’s the Boxplots After Outlier Removal:
+
+![Accuracy Score - After Outlier Removal](images/After%20Outlier%20Removal.png)
+
 Dataset[https://www.kaggle.com/datasets/yasserh/titanic-dataset]
 
 ### Tools: Python, Pandas, NumPy, Matplotlib/Seaborn, Sklearn
